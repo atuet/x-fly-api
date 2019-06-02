@@ -1,5 +1,6 @@
 # Fichier token
 token.js
+database_connection.js
 
 # Logs
 logs/
