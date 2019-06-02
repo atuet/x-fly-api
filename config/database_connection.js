@@ -16,7 +16,7 @@ var database = mysql.createConnection({
   host: 'localhost',
   user: 'xfly',
   password: 'passbts',
-  database: 'xfly',
+  database: 'laravel',
   charset: 'utf8mb4'
 })
 
